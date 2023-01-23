@@ -1,0 +1,21 @@
+This is a backlinks finder tool, it can be used to find Guest Post Backlinks, Comment Backlinks,Do-Follow Blogs,Listing Backlinks.
+The same tool can even be used to find the DA & PA of a website on the go.
+
+How to use the backlinks finder :-
+
+- ENTER THE KEYWORD YOUR WILLING TO OBTAIN BACKLINKS FOR.
+- SELECT THE TYPE OF BACKLINKS FROM THE DROPDOWN.
+- CREATE BACKLINKS FROM THE RESULTS ON THE SERP.
+
+How to use the DA,PA checker :-
+
+- ENTER THE URL IN THE URL PANEL
+- WAIT FOR A FEW SECONDS, AFTER THE PROMPT WINDOW OPENS SELECT YES AS YOUR OPTION
+- WAIT FOR A FEW MORE SECONDS AND YOU WILL GET YOUR DESIRED RESULTS
+
+Note :-
+FOR THE BACKLINKS FINDER ONLY :-
+
+1. This tool fires automatic queries, on heavy usage google may ask you to verify if you are a bot or not, hence if you get robot verification
+window from google just fill in the right captchas and you will get your desired results.
+
